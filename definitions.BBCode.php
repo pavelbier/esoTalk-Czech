@@ -7,7 +7,7 @@
 $definitions["Code"] = "Kód";
 $definitions["Image"] = "Obrázek";
 $definitions["Link"] = "Odkaz";
-$definitions["Strike"] = "Úder";
+$definitions["Strike"] = "Přeškrtnutí";
 $definitions["Header"] = "Nadpis";
 $definitions["Italic"] = "Kurzíva";
 $definitions["Bold"] = "Tučné";
